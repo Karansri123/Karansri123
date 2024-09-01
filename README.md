@@ -1,3 +1,4 @@
+![logo](https://github.com/Karansri123/Karansri123/blob/main/Karan.png)
 <h1 align="center">Hi 👋, I'm Karan Srivastava</h1>
 <h3 align="center">A passionate MERN developer </h3>
 
